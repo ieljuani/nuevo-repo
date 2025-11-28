@@ -1,0 +1,4 @@
+#gitignore nuevo.repo
+*.txt
+!archivo-nuevo-repo.txt
+!archivo2.txt
